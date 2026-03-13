@@ -10,6 +10,8 @@ The ROM has been **tested on real Neo Geo Pocket Color hardware** as well as in 
 
 ---
 
+<img width="160" height="152" alt="Stargunner" src="https://github.com/user-attachments/assets/1ff5bb2c-cc89-4b5f-84d6-ee3b5fc8b0f5" />
+
 # About the Demo
 
 This demo was built using a **custom development template** currently under development.
