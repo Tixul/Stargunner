@@ -23,11 +23,14 @@ The demo is mainly used to validate different systems of the engine in a real ga
 Currently implemented features include:
 
 - player movement and shooting
+- Power-up system
 - enemy spawning
 - stage progression
 - background music
 - sound effects
 - basic gameplay systems
+- save
+- level 3 infinite
 
 The project is still **work in progress** and should be considered a **technical showcase**, not a finished game.
 
