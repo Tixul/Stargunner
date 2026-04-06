@@ -1,0 +1,89 @@
+NGPC Palette Report
+============================================================
+Used: 12/16 palette slots
+Free: 4 slot(s) — indices: [12, 13, 14, 15]
+
+Slot 00  shmup_player_a
+        [0] transparent
+        [1] #219  ->  rgb(144, 16, 32)
+        [2] #FFF  ->  rgb(240, 240, 240)
+        [3] #9AB  ->  rgb(176, 160, 144)
+
+Slot 01  shmup_player_b
+        [0] transparent
+        [1] #657  ->  rgb(112, 80, 96)
+        [2] #44F  ->  rgb(240, 64, 64)
+        [3] #112  ->  rgb(32, 16, 16)
+
+Slot 02  shmup_enemy1
+        [0] transparent
+        [1] #978  ->  rgb(128, 112, 144)
+        [2] #521  ->  rgb(16, 32, 80)
+        [3] #527  ->  rgb(112, 32, 80)
+
+Slot 03  shmup_enemy2
+        [0] transparent
+        [1] #FFF  ->  rgb(240, 240, 240)
+        [2] #00D  ->  rgb(208, 0, 0)
+        [3] #322  ->  rgb(32, 32, 48)
+
+Slot 04  shmup_enemy3
+        [0] transparent
+        [1] #061  ->  rgb(16, 96, 0)
+        [2] #521  ->  rgb(16, 32, 80)
+        [3] #527  ->  rgb(112, 32, 80)
+
+Slot 05  shmup_bullet
+        [0] transparent
+        [1] #3E0  ->  rgb(0, 224, 48)
+        [2] #580  ->  rgb(0, 128, 80)
+        [3] #EFF  ->  rgb(240, 240, 224)
+
+Slot 06  shmup_explosion
+        [0] transparent
+        [1] #2EF  ->  rgb(240, 224, 32)
+        [2] #EFF  ->  rgb(240, 240, 224)
+        [3] #527  ->  rgb(112, 32, 80)
+
+Slot 07  shmup_trail
+        [0] transparent
+        [1] #0AF  ->  rgb(240, 160, 0)
+        [2] #527  ->  rgb(112, 32, 80)
+        [3] #40F  ->  rgb(240, 0, 64)
+
+Slot 08  shmup_trail2
+        [0] transparent
+        [1] #FA2  ->  rgb(32, 160, 240)
+        [2] #ED6  ->  rgb(96, 208, 224)
+        [3] #FFF  ->  rgb(240, 240, 240)
+
+Slot 09  shmup_ast1 + shmup_ast2 + shmup_ast3 + shmup_ast4 + shmup_ast5
+        [0] transparent
+        [1] #455  ->  rgb(80, 80, 64)
+        [2] #521  ->  rgb(16, 32, 80)
+        [3] #0AF  ->  rgb(240, 160, 0)
+
+Slot 10  ui_start
+        [0] transparent
+        [1] #2C7  ->  rgb(112, 192, 32)
+        [2] #570  ->  rgb(0, 112, 80)
+        [3] #000  ->  rgb(0, 0, 0)
+
+Slot 11  ui_game_over
+        [0] transparent
+        [1] #44F  ->  rgb(240, 64, 64)
+        [2] #219  ->  rgb(144, 16, 32)
+        [3] #000  ->  rgb(0, 0, 0)
+
+Slot 12  (unused)
+
+Slot 13  (unused)
+
+Slot 14  (unused)
+
+Slot 15  (unused)
+
+────────────────────────────────────────────────────────────
+Tip: to share a palette between two sprites, make sure
+they use the exact same 3 opaque colors (RGB444-quantized).
+The exporter will reuse existing slots automatically.

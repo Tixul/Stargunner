@@ -1,0 +1,106 @@
+GIMP Palette
+Name: NGPC Sprites
+Columns: 5
+#
+# NGPC sprite palettes — 12/16 slots used, 4 free
+# Layout: 5 cols per row = [transparent][c1][c2][c3][magenta separator]
+# Index 0 of each slot = TRANSPARENT (always black in GPL, do not paint with it)
+# Colors are RGB444 expanded to RGB888 (multiples of 16 per channel)
+# Magenta (255,0,255) = slot separator, NOT a game color
+#
+# Slot 00 — shmup_player_a
+  0   0   0	s00_transparent
+144  16  32	s00_c1_#219
+240 240 240	s00_c2_#FFF
+176 160 144	s00_c3_#9AB
+255   0 255	---
+# Slot 01 — shmup_player_b
+  0   0   0	s01_transparent
+112  80  96	s01_c1_#657
+240  64  64	s01_c2_#44F
+ 32  16  16	s01_c3_#112
+255   0 255	---
+# Slot 02 — shmup_enemy1
+  0   0   0	s02_transparent
+128 112 144	s02_c1_#978
+ 16  32  80	s02_c2_#521
+112  32  80	s02_c3_#527
+255   0 255	---
+# Slot 03 — shmup_enemy2
+  0   0   0	s03_transparent
+240 240 240	s03_c1_#FFF
+208   0   0	s03_c2_#00D
+ 32  32  48	s03_c3_#322
+255   0 255	---
+# Slot 04 — shmup_enemy3
+  0   0   0	s04_transparent
+ 16  96   0	s04_c1_#061
+ 16  32  80	s04_c2_#521
+112  32  80	s04_c3_#527
+255   0 255	---
+# Slot 05 — shmup_bullet
+  0   0   0	s05_transparent
+  0 224  48	s05_c1_#3E0
+  0 128  80	s05_c2_#580
+240 240 224	s05_c3_#EFF
+255   0 255	---
+# Slot 06 — shmup_explosion
+  0   0   0	s06_transparent
+240 224  32	s06_c1_#2EF
+240 240 224	s06_c2_#EFF
+112  32  80	s06_c3_#527
+255   0 255	---
+# Slot 07 — shmup_trail
+  0   0   0	s07_transparent
+240 160   0	s07_c1_#0AF
+112  32  80	s07_c2_#527
+240   0  64	s07_c3_#40F
+255   0 255	---
+# Slot 08 — shmup_trail2
+  0   0   0	s08_transparent
+ 32 160 240	s08_c1_#FA2
+ 96 208 224	s08_c2_#ED6
+240 240 240	s08_c3_#FFF
+255   0 255	---
+# Slot 09 — shmup_ast1 + shmup_ast2 + shmup_ast3 + shmup_ast4 + shmup_ast5
+  0   0   0	s09_transparent
+ 80  80  64	s09_c1_#455
+ 16  32  80	s09_c2_#521
+240 160   0	s09_c3_#0AF
+255   0 255	---
+# Slot 10 — ui_start
+  0   0   0	s10_transparent
+112 192  32	s10_c1_#2C7
+  0 112  80	s10_c2_#570
+  0   0   0	s10_c3_#000
+255   0 255	---
+# Slot 11 — ui_game_over
+  0   0   0	s11_transparent
+240  64  64	s11_c1_#44F
+144  16  32	s11_c2_#219
+  0   0   0	s11_c3_#000
+255   0 255	---
+# Slot 12 — (unused / free)
+  0   0   0	s12_free_0
+  0   0   0	s12_free_1
+  0   0   0	s12_free_2
+  0   0   0	s12_free_3
+255   0 255	---
+# Slot 13 — (unused / free)
+  0   0   0	s13_free_0
+  0   0   0	s13_free_1
+  0   0   0	s13_free_2
+  0   0   0	s13_free_3
+255   0 255	---
+# Slot 14 — (unused / free)
+  0   0   0	s14_free_0
+  0   0   0	s14_free_1
+  0   0   0	s14_free_2
+  0   0   0	s14_free_3
+255   0 255	---
+# Slot 15 — (unused / free)
+  0   0   0	s15_free_0
+  0   0   0	s15_free_1
+  0   0   0	s15_free_2
+  0   0   0	s15_free_3
+255   0 255	---
